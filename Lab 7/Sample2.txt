@@ -1,0 +1,21 @@
+float  a = 8.51         ;
+
+int  b      = 8 - a;
+
+
+
+Petunia and Uncle Vernon
+seemed
+
+
+
+
+
+int c = -  10;
+
+
+after that was      much too late. Uncle Vernon had
+threatened to lo
+
+
+off toward the park                     gate.
